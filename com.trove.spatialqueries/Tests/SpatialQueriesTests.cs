@@ -24,5 +24,4 @@ namespace Trove.SpatialQueries.Tests
         {
         }
     }
-#endregion
 }
